@@ -5,9 +5,9 @@ spring:
   datasource:
     #driver-class-name: com.mysql.jdbc.Driver
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.100.88:3306/test_www_db
-    username: test_www
-    password: GTdsdf8dsfjhsdH
+    url: jdbc:mysql://192.168.0.146:3306/test_www_db
+    username: test_user
+    password: test_user
 
 logging:
   level:
